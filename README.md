@@ -1,2 +1,2 @@
 # statistical-analysis-functions
-A collection of statistical analysis tools to make Exploratory Data Analysis (EDA) and more advanced statistical analysis faster.
+A collection of statistical analysis functions to make the Exploratory Data Analysis (EDA) and advanced statistical analysis workflow smoother.
