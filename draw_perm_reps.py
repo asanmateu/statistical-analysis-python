@@ -1,4 +1,5 @@
-import numpy as np
+
+from permutation_sample import np, permutation_sample
 
 def draw_perm_reps(data_1, data_2, func, size=1):
     """Generate multiple permutation replicates."""

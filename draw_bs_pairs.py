@@ -1,3 +1,5 @@
+import biblioteca
+
 def draw_bs_pairs(x, y, func, size=1):
     """Perform pairs bootstrap for a single statistic."""
 
